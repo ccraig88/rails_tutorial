@@ -17,6 +17,8 @@ To get started, just do the following:
 Happy coding!
 The Cloud9 IDE team
 
+Adding this line as a test to Github
+
 
 ## Support & Documentation
 
